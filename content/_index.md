@@ -45,10 +45,10 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Python
           description: 90%
-          icon: r-project
-          icon_pack: fab
+          icon: python
+          icon_pack: fas
         - name: Statistics
           description: 100%
           icon: chart-line
