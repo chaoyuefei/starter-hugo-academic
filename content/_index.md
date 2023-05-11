@@ -47,7 +47,7 @@ sections:
       items:
         - name: Python
           description: 90%
-          icon: python
+          icon: fa-python
           icon_pack: fas
         - name: Statistics
           description: 100%
