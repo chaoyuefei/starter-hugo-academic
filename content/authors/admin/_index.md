@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Chaoyue Fei 费超越
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Chaoyue
+last_name: Fei
 
 # Status emoji
 status:
