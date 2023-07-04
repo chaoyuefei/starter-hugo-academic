@@ -41,3 +41,34 @@ categories:
   - Tricks
   - 教程
 ---
+Here is the script. 
+```shell
+#!/bin/bash
+git add .
+git commit -m "update"
+git push
+hugo
+cd public
+git add .
+git commit -m "Update something"
+git push
+cd ..
+```
+Detailed steps: 
+1. Go to your website's folder and create a script file `script.sh`
+2. Add the following code to the file:
+```shell
+#!/bin/bash
+git add .
+git commit -m "update"
+git push
+hugo
+cd public
+git add .
+git commit -m "Update something"
+git push
+cd ..
+```
+3. Save the file and close it.
+4. Make the script executable with `chmod +x myscript.sh`
+5. Run the script with `./myscript.sh`
