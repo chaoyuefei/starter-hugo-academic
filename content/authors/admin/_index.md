@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Chaoyue Fei, a passionate Master's student specializing in Robotics and Computation. My focus lies in the fascinating field of Surgical and Medical Robots. Currently pursuing my Master's degree in Robotics, I am acquiring comprehensive knowledge and skills in areas such as artificial intelligence, control systems, and automation. I am enthusiastic about the promising future of robot applications in the field of human healthcare. Keep learning & keep moving.
 {style="text-align: justify;"}
