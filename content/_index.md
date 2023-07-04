@@ -69,7 +69,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: BSc
+        - title: BSc in Materials Science and Engineering
           company: Northeastern University (China)
           company_url: https://www.neu.cn
           company_logo: neu
@@ -77,19 +77,24 @@ sections:
           date_start: '2018-09-01'
           date_end: '2021-07-23'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              Highlight:
+              * GPA: 88.694/100, ranking 6/90
+              * Champion of College of Materials Basketball Tournament
+              * Captain of College of Materials Football Team
+              * Vice President of Sino-French College of Engineering Student Union
+        - title: BSc in Electronics, Electrical Energy and Automatic
+          company: Université Toulouse III Paul Sabatier (France)
+          company_url: https://www.univ-tlse3.fr/home
+          company_logo: tls
+          location: Toulouse
+          date_start: '2021-08-23'
+          date_end: '2022-7-12'
+          description: |2-
+              Highlight:
+              * GPA: 13.25/20, ranking 2/165
+              * Digital Control System
+              * Automatic Control
+              * Electrical Engineering and Power Electronics
     design:
       columns: '2'
   - block: accomplishments
