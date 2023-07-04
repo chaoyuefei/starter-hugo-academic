@@ -36,7 +36,7 @@ education:
     - course: MSc in Robotics and Computation
       institution: University College London
       year: 2022
-    - course: BSc in Electronics, Electrical Energy, Automatic;
+    - course: BSc in Electronics, Electrical Energy, Automatic
       institution: Université Toulouse III Paul Sabatier (France)
       year: 2021
     - course: BSc in Materials Science and Engineering
@@ -81,5 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-Hello, I'm Chaoyue Fei, a passionate Master's student specializing in Robotics and Computation. My focus lies in the fascinating field of Surgical and Medical Robots. Currently pursuing my Master's degree in Robotics, I am acquiring comprehensive knowledge and skills in areas such as artificial intelligence, control systems, and automation. I am enthusiastic about the promising future of robot applications in the field of human healthcare. Keep learning & keep moving.
+I am Chaoyue Fei, a Master's student specializing in Robotics and Computation. My focus is on Surgical and Medical Robots. Currently pursuing my Master's degree in Robotics, I am gaining comprehensive knowledge and skills in artificial intelligence, control systems, and automation. I am enthusiastic about the promising future of robot applications in human healthcare. Keep learning & keep moving forward🤞.
+
 {style="text-align: justify;"}
