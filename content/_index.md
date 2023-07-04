@@ -88,7 +88,7 @@ sections:
           company_logo: tls
           location: Toulouse
           date_start: '2021-08-23'
-          date_end: '2022-7-12'
+          date_end: '2022-07-12'
           description: |2-
               Highlight:
               * GPA: 13.25/20, ranking 2/165
