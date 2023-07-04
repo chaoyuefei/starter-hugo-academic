@@ -70,5 +70,5 @@ git push
 cd ..
 ```
 3. Save the file and close it.
-4. Make the script executable with `chmod +x myscript.sh`
-5. Run the script with `./myscript.sh`
+4. Make the script executable with `chmod +x script.sh`
+5. Run the script with `./script.sh`

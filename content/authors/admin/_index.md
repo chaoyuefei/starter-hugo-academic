@@ -36,7 +36,7 @@ education:
     - course: MSc in Robotics and Computation
       institution: University College London
       year: 2022
-    - course: BSc in Electronics, Electrical Energy, Automatic
+    - course: BSc in Electronics, Electrical Energy and Automatic
       institution: Université Toulouse III Paul Sabatier (France)
       year: 2021
     - course: BSc in Materials Science and Engineering
