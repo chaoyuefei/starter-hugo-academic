@@ -46,15 +46,15 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: 90%
+          # description: 90%
           icon: fa-python
           icon_pack: fas
-        - name: Statistics
-          description: 100%
+        - name: C++
+          # description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: ROS
+          # description: 10%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -69,13 +69,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: BSc
+          company: Northeastern University (China)
+          company_url: https://www.neu.cn
+          company_logo: neu
+          location: Shenyang
+          date_start: '2018-09-01'
+          date_end: '2021-07-23'
           description: |2-
               Responsibilities include:
 
