@@ -6,7 +6,7 @@ subtitle: A brief guide to subscribing to a camera topic published by gazebo in 
 summary: A brief guide to subscribing to a camera topic published by gazebo in ros1 and efficiently processing image data using the powerful cv2 library.
 
 # Link this post with a project
-projects: [example]
+# projects: [example]
 
 # Date published
 date: '2023-07-15T00:00:00Z'
