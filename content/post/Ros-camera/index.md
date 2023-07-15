@@ -1,5 +1,5 @@
 ---
-title: [ROS] - How to subscribe to a camera topic and process image data using the cv2 library.
+title: ROS - How to subscribe to a camera topic and process image data using the cv2 library.
 subtitle: A brief guide to subscribing to a camera topic published by gazebo in ros1 and efficiently processing image data using the powerful cv2 library.
 
 # Summary for listings and search engines
