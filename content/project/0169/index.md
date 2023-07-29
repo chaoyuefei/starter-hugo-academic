@@ -2,11 +2,9 @@
 title: Autoencoder and Variational Autoencoder Image Reconstruction
 summary: A project employed Autoencoder (AE) and Variational Autoencoder (VAE) trained on the CelebA-HQ dataset
 tags:
-  - ROS
-  - Moveit!
-  - PCL
-  - Gazebo
-  - 0129
+  - Machine Learning
+  - Deep Learning
+  - 0169
 date: '2023-07-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

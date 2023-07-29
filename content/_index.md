@@ -182,6 +182,8 @@ sections:
           tag: '*'
         - name: ROS
           tag: ROS
+        - name: Deep Learning
+        tag: Deep Learning
         - name: Other
           tag: Demo
     design:
