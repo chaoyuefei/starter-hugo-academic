@@ -180,8 +180,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: ROS
+          tag: ROS
         - name: Other
           tag: Demo
     design:

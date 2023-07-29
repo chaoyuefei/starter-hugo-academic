@@ -34,11 +34,14 @@ url_video: ''
 # slides: example
 slides: ""
 ---
-# Object Detection and Localization for Pick and Place
+<!-- # Object Detection and Localization for Pick and Place -->
 
 I am a member of a three-person team that conducted this project in spring 2023. The objective of this project is to perform pick and place tasks in Gazebo, using MoveIt! to move the robot and PCL to detect object positions and colours.
 
-- Created a simulated environment using ROS and Gazebo, integrated MoveIt! to enable precise robot movements for pick and place tasks. Utilized PCL for object detection and localization.
-- Focused specifically on identifying ’nought’ and ’cross’ shapes while excluding black obstacles, implemented object counting functionality, excluding black obstacles.
+- Created a simulated environment using ROS and Gazebo
+- Integrated MoveIt! to enable precise robot movements for pick and place tasks
+- Utilized PCL for object detection and localization
+- Focused specifically on identifying ’nought’ and ’cross’ shapes while excluding black obstacles
+- Implemented object counting functionality, excluding black obstacles
 
 
