@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: MSc in Robotics and Computation
-      institution: University College London
+      institution: University College London (United Kingdom)
       year: 2022
     - course: BSc in Electronics, Electrical Energy and Automatic
       institution: Université Toulouse III Paul Sabatier (France)

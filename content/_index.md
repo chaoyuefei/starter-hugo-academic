@@ -99,6 +99,7 @@ sections:
               * University Second-Class Scholarship  
               * Champion of College of Materials Basketball Tournament  
               * Runner-up of Northeastern University Football Cup for Undergraduate Students  
+
               Leadership:  
               * Captain of College Football Team  
               * Vice President of Sino-French College of Engineering Student Union  
@@ -110,7 +111,7 @@ sections:
           date_start: '2021-08-23'
           date_end: '2022-07-12'
           description: |2-
-              GPA: 13.25/20, ranking 2/165  
+              GPA: 13.25/20, ranking 2/165    
               Core Courses:  
               * Digital Control System  
               * Automatic Control  
@@ -129,6 +130,7 @@ sections:
               * Machine Learning for Visual Computing
               * Robotic Sensing, Manipulating and Interaction  
               * Robot Vision and Naviagtion  
+              
               Leadership:  
               * Academic Representative of MSc Robotics and Computation
     design:
