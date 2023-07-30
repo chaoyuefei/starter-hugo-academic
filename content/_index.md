@@ -70,7 +70,7 @@ sections:
           icon: fa-subscript
           icon_pack: fa-solid
 
-          
+
   - block: experience
     content:
       title: Experience
@@ -201,7 +201,7 @@ sections:
         - name: ROS
           tag: ROS
         - name: Deep Learning
-        tag: Deep Learning
+          tag: Deep Learning
         - name: Other
           tag: Demo
     design:
