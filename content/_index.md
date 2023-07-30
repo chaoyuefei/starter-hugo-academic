@@ -47,28 +47,28 @@ sections:
       items:
         - name: Python
           # description: 90%
-          icon: fa-python
-          icon_pack: fa-brands
+          icon: python
+          icon_pack: fab
         - name: C++
           # description: 100%
           icon: chart-line
           icon_pack: fas
         - name: ROS
           # description: 10%
-          icon: fa-robot
-          icon_pack: fa-solid
+          icon: robot
+          icon_pack: fas
         - name: Pytorch
           # description: 10%
-          icon: fa-fire
-          icon_pack: fa-solid
+          icon: fire
+          icon_pack: fas
         - name: Matlab
           # description: 10%
-          icon: fa-calculator
-          icon_pack: fa-solid
+          icon: calculator
+          icon_pack: fas
         - name: Latex
           # description: 10%
-          icon: fa-subscript
-          icon_pack: fa-solid
+          icon: subscript
+          icon_pack: fas
 
 
   - block: experience
@@ -91,10 +91,16 @@ sections:
           date_start: '2018-09-01'
           date_end: '2021-07-23'
           description: |2-
-              Highlight:
-              * GPA: 88.694/100, ranking 6/90
+              GPA: 88.694/100, ranking 6/90
+              Awards:
+              * Outstanding Graduate
+              * Outstanding Group Leader
+              * Outstanding Student Leader
+              * University Second-Class Scholarship
               * Champion of College of Materials Basketball Tournament
-              * Captain of College of Materials Football Team
+              * Runner-up of Northeastern University Football Cup for Undergraduate Students
+              Leadership:
+              * Captain of College Football Team
               * Vice President of Sino-French College of Engineering Student Union
         - title: BSc in Electronics, Electrical Energy and Automatic
           company: Université Toulouse III Paul Sabatier (France)
@@ -104,11 +110,27 @@ sections:
           date_start: '2021-08-23'
           date_end: '2022-07-12'
           description: |2-
-              Highlight:
-              * GPA: 13.25/20, ranking 2/165
+              GPA: 13.25/20, ranking 2/165
+              Core Courses:
               * Digital Control System
               * Automatic Control
               * Electrical Engineering and Power Electronics
+
+        - title: MSc in Robotics and Computation
+          company: University College London
+          company_url: https://www.ucl.ac.uk
+          company_logo: UCL
+          location: London
+          date_start: '2022-09-23'
+          date_end: '2023-09-23'
+          description: |2-
+              GPA: 77.6 (currently), distinction
+              Core Courses:
+              * Machine Learning for Visual Computing
+              * Robotic Sensing, Manipulating and Interaction
+              * Robot Vision and Naviagtion
+              Leadership:
+              * Academic Representative of MSc Robotics and Computation
     design:
       columns: '2'
 
