@@ -130,7 +130,7 @@ sections:
               * Machine Learning for Visual Computing
               * Robotic Sensing, Manipulating and Interaction  
               * Robot Vision and Naviagtion  
-              
+
               Leadership:  
               * Academic Representative of MSc Robotics and Computation
     design:
