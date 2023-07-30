@@ -91,17 +91,17 @@ sections:
           date_start: '2018-09-01'
           date_end: '2021-07-23'
           description: |2-
-              GPA: 88.694/100, ranking 6/90
-              Awards:
-              * Outstanding Graduate
-              * Outstanding Group Leader
-              * Outstanding Student Leader
-              * University Second-Class Scholarship
-              * Champion of College of Materials Basketball Tournament
-              * Runner-up of Northeastern University Football Cup for Undergraduate Students
-              Leadership:
-              * Captain of College Football Team
-              * Vice President of Sino-French College of Engineering Student Union
+              GPA: 88.694/100, ranking 6/90  
+              Awards:  
+              * Outstanding Graduate  
+              * Outstanding Group Leader  
+              * Outstanding Student Leader  
+              * University Second-Class Scholarship  
+              * Champion of College of Materials Basketball Tournament  
+              * Runner-up of Northeastern University Football Cup for Undergraduate Students  
+              Leadership:  
+              * Captain of College Football Team  
+              * Vice President of Sino-French College of Engineering Student Union  
         - title: BSc in Electronics, Electrical Energy and Automatic
           company: Université Toulouse III Paul Sabatier (France)
           company_url: https://www.univ-tlse3.fr/home
@@ -110,11 +110,11 @@ sections:
           date_start: '2021-08-23'
           date_end: '2022-07-12'
           description: |2-
-              GPA: 13.25/20, ranking 2/165
-              Core Courses:
-              * Digital Control System
-              * Automatic Control
-              * Electrical Engineering and Power Electronics
+              GPA: 13.25/20, ranking 2/165  
+              Core Courses:  
+              * Digital Control System  
+              * Automatic Control  
+              * Electrical Engineering and Power Electronics  
 
         - title: MSc in Robotics and Computation
           company: University College London
@@ -124,12 +124,12 @@ sections:
           date_start: '2022-09-23'
           date_end: '2023-09-23'
           description: |2-
-              GPA: 77.6 (currently), distinction
-              Core Courses:
+              GPA: 77.6 (currently), distinction  
+              Core Courses:  
               * Machine Learning for Visual Computing
-              * Robotic Sensing, Manipulating and Interaction
-              * Robot Vision and Naviagtion
-              Leadership:
+              * Robotic Sensing, Manipulating and Interaction  
+              * Robot Vision and Naviagtion  
+              Leadership:  
               * Academic Representative of MSc Robotics and Computation
     design:
       columns: '2'
