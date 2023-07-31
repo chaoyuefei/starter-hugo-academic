@@ -1,6 +1,6 @@
 ---
-title: Just Give it a kick!
-summary: Highlights of my football career 🤣 (For self-entertainment, please don't criticize me haha)
+title: Just Give it a shot!
+summary: Highlights of my basketball career 🤣 (For self-entertainment, please don't criticize me haha)
 tags:
   - basketball
 date: "2023-07-29T00:00:00Z"
