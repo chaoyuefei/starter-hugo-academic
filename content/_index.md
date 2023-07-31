@@ -65,7 +65,7 @@ sections:
           # description: 10%
           icon: calculator
           icon_pack: fas
-        - name: Latex
+        - name: LaTex
           # description: 10%
           icon: subscript
           icon_pack: fas
@@ -83,6 +83,39 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+          
+        - title: MSc in Robotics and Computation
+          company: University College London
+          company_url: https://www.ucl.ac.uk
+          company_logo: UCL
+          location: London
+          date_start: '2022-09-23'
+          date_end: '2023-09-23'
+          description: |2-
+              GPA: 77.6 (currently), distinction  
+              Core Courses:  
+              * Machine Learning for Visual Computing
+              * Robotic Sensing, Manipulating and Interaction  
+              * Robot Vision and Naviagtion  
+
+              Leadership:  
+              * Academic Representative of MSc Robotics and Computation
+        
+        - title: BSc in Electronics, Electrical Energy and Automatic
+          company: Université Toulouse III Paul Sabatier (France)
+          company_url: https://www.univ-tlse3.fr/home
+          company_logo: tls
+          location: Toulouse
+          date_start: '2021-08-23'
+          date_end: '2022-07-12'
+          description: |2-
+              GPA: 13.25/20, ranking 2/165    
+              Core Courses:  
+              * Digital Control System  
+              * Automatic Control  
+              * Electrical Engineering and Power Electronics  
+
+
         - title: BSc in Materials Science and Engineering
           company: Northeastern University (China)
           company_url: https://www.neu.cn
@@ -102,37 +135,8 @@ sections:
 
               Leadership:  
               * Captain of College Football Team  
-              * Vice President of Sino-French College of Engineering Student Union  
-        - title: BSc in Electronics, Electrical Energy and Automatic
-          company: Université Toulouse III Paul Sabatier (France)
-          company_url: https://www.univ-tlse3.fr/home
-          company_logo: tls
-          location: Toulouse
-          date_start: '2021-08-23'
-          date_end: '2022-07-12'
-          description: |2-
-              GPA: 13.25/20, ranking 2/165    
-              Core Courses:  
-              * Digital Control System  
-              * Automatic Control  
-              * Electrical Engineering and Power Electronics  
+              * Vice President of Sino-French College of Engineering Student Union
 
-        - title: MSc in Robotics and Computation
-          company: University College London
-          company_url: https://www.ucl.ac.uk
-          company_logo: UCL
-          location: London
-          date_start: '2022-09-23'
-          date_end: '2023-09-23'
-          description: |2-
-              GPA: 77.6 (currently), distinction  
-              Core Courses:  
-              * Machine Learning for Visual Computing
-              * Robotic Sensing, Manipulating and Interaction  
-              * Robot Vision and Naviagtion  
-
-              Leadership:  
-              * Academic Representative of MSc Robotics and Computation
     design:
       columns: '2'
 
@@ -236,15 +240,46 @@ sections:
       flip_alt_rows: false
 
 
-  - block: markdown  # here is for gallery
+  - block: portfolio
     id: LaVie
     content:
-      title: LaVie
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      title: La Vie
+      filters:
+        folders:
+          - lavie
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Football
+          tag: football
+        - name: Basketball
+          tag: basketball
+
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
+
+
+  # - block: markdown  # here is for gallery
+  #   id: LaVie
+  #   content:
+  #     title: LaVie
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
 
   # Here is for featured publications
   # - block: collection

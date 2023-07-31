@@ -21,6 +21,8 @@ main:
   #   weight: 50
   - name: LaVie
     url: '#LaVie'
+    weight: 40
+    
   - name: Contact
     url: '#contact'
     weight: 60
