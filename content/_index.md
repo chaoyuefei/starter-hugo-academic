@@ -234,14 +234,17 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: markdown  # here is for gallery
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+
+
+  - block: markdown  # here is for gallery
+    id: LaVie
+    content:
+      title: LaVie
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
 
   # Here is for featured publications
   # - block: collection

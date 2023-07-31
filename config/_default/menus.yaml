@@ -19,6 +19,8 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
+  - name: LaVie
+    url: '#LaVie'
   - name: Contact
     url: '#contact'
     weight: 60
