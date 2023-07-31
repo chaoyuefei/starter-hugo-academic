@@ -301,7 +301,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        You are welcome to contact me!
       # Contact (add or remove contact options as necessary)
       email: chaoyue.fei.21@ucl.ac.uk
       phone: (+44)7955354471
