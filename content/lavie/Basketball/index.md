@@ -1,6 +1,6 @@
 ---
 title: The Love Letter for Basketball
-summary: "Dedication makes dreams come true." by Kobe Bryant 🐍
+summary: Dedication makes dreams come true, by Kobe Bryant 🐍
 tags:
   - basketball
 date: "2023-07-29T00:00:00Z"

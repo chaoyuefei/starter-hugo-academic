@@ -1,6 +1,6 @@
 ---
 title: The Journey of a College Football Team Captain
-summary: "You have to fight to reach your dream. You have to sacrifice and work hard for it." by Lionel Messi 🐐
+summary: You have to fight to reach your dream. You have to sacrifice and work hard for it, by Lionel Messi 🐐
 tags:
   - football
 date: "2023-07-29T00:00:00Z"
