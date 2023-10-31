@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,6 +80,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am Chaoyue Fei, a MSc student at University College London specializing in Robotics and Computation. My studies focus on artificial intelligence, control systems, and automation. I am particularly excited about the potential of robots in improving healthcare for humans 🤞.
+I am Chaoyue Fei, a MSc student at University College London specializing in Robotics and Computation. My research interests lie in artificial intelligence, control systems, and automation🤞.
 
 {style="text-align: justify;"}
